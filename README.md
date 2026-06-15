@@ -1,11 +1,26 @@
-# 💫 About Me
+<div align="center">
 
-Software Engineering Student at **Universidad de El Salvador**.
-Builder, learner, and problem solver — passionate about technology, games, and meaningful stories.
+# Hey, I'm Ricardo 👾
+
+</div>
 
 ---
 
-# 💻 Tech Stack
+### 👤 About Me
+
+- 🎓 4th year **Software Engineering** student at **Universidad de El Salvador**
+- 🌎 Based in **San Salvador, El Salvador**
+- 🔧 Builder, learner, and problem solver
+- 🎮 Passionate about technology, games, and meaningful stories
+
+<br>
+
+> *"The world will move on without you. Whether you are remembered or not depends on what you leave behind."*
+> — **The Boss**, Metal Gear Solid 3
+
+---
+
+### 💻 Tech Stack
 
 **Languages**
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
@@ -41,7 +56,7 @@ Builder, learner, and problem solver — passionate about technology, games, and
 
 ---
 
-# 📊 GitHub Stats
+### 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=MM23084&theme=monokai&hide_border=true&include_all_commits=false&count_private=true)
 ![](https://streak-stats.demolab.com/?user=MM23084&theme=monokai&hide_border=true)
